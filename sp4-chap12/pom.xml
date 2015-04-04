@@ -69,5 +69,6 @@
 			</plugin>
 		</plugins>
 	</build>
-
+ 
+ <!-- comment 추가 -->
 </project>
